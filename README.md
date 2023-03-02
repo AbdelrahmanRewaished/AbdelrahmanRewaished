@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript and React**
 
-- 💬 Ask me about **ASP.NET Core, NodeJS, Native Android Dev**
+- 💬 Ask me about **ASP.NET Core, NodeJS, Core Java and Python**
 
 - 📫 How to reach me **abdelrahmann.salehh@gmail.com**
 

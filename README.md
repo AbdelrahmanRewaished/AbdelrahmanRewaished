@@ -5,9 +5,9 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **Typescript and React**
+- 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **ASP.NET Core, NodeJS, Core Java and Python**
+- 💬 Ask me about **ASP.NET Core, Javascript, Typescript, NextJS, ReactJS, Angular, NodeJS, Core Java and Python**
 
 - 📫 How to reach me **abdelrahmann.salehh@gmail.com**
 

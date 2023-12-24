@@ -5,7 +5,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **ASP.NET Core, Javascript, Typescript, NextJS, ReactJS, Angular, NodeJS, Core Java and Python**
 
